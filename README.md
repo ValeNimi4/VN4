@@ -14,9 +14,9 @@ VN4.kaivita_naide()
 
 Funktsioonid:
 
-*__init__() - Teeb menüü*
+*`__init__()` - Teeb menüü*
 
-*kaivita() - Kuvab menüü*
+*start() - Kuvab menüü*
 
 *vaikimisi_tuhjendaja() - tühjendab ekraani*
 
@@ -58,7 +58,7 @@ Omandused:
 
 Funktsioonid:
 
-*__init__() - teeb ja käivitab stopperi*
+*`__init__()` - teeb ja käivitab stopperi*
 
 *peata() - peata stopper*
 
